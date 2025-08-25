@@ -1,18 +1,6 @@
-# TOMATO  - Food Ordering Website
+# Crave Mingle - Food Ordering Website
 
-This repository hosts the source code for TOMATO, a dynamic food ordering website built with the MERN Stack. It offers a user-friendly platform for seamless online food ordering.
-
-# BCA 3rd year Project!
-### student Names  :
-1) Dev Vijay
-2) Sonali Nagar
-3) Vijay Malav
-4) Khushi Talreja
-
-## Demo 
-
-- User Panel: [https://food-delivery-frontend-s2l9.onrender.com/](https://food-delivery-frontend-s2l9.onrender.com/)
-- Admin Panel: [https://food-delivery-admin-wrme.onrender.com/](https://food-delivery-admin-wrme.onrender.com/)
+This repository hosts the source code for T Crave Mingle, a dynamic food ordering website built with the MERN Stack. It offers a user-friendly platform for seamless online food ordering.
 
 ## Features
 
@@ -33,20 +21,6 @@ This repository hosts the source code for TOMATO, a dynamic food ordering websit
 - REST APIs
 - Role-Based Identification
 - Beautiful Alerts
-
-## Screenshots
-
-![Hero](https://i.ibb.co/59cwY75/food-hero.png)
-- Hero Section
-
-![Products](https://i.ibb.co/JnNQPyQ/food-products.png)
-- Products Section
-
-![Cart](https://i.ibb.co/t2LrQ8p/food-cart.png)
-- Cart Page
-
-![Login](https://i.ibb.co/s6PgwkZ/food-login.png)
-- Login Popup
 
 ## Run Locally
 
@@ -125,13 +99,11 @@ Start the Backend server
 
 ## Deployment
 
-The application is deployed on Render.
+The application is deployed on vercel.
 
 ## Contributing
 
 Contributions are always welcome!
 Just raise an issue, and we will discuss it.
 
-## Feedback
 
-If you have any feedback, please reach out to me [here](https://www.linkedin.com/in/dev-vj1/)
